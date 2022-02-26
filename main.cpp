@@ -1,7 +1,6 @@
 /*
 Author: Samuel Kheysin
-Date: 7/7/21
-Description: Create a silly Zombie Conga Line using your Linked List
+Description: Create a silly Zombie Conga Line using my Linked List
 */
 #include <iostream>
 #include <string>
